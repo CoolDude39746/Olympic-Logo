@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.Body_Background {
+	background-image: url("Randos.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#Canvas_1 {
+	border-width: 10px;
+	background-color: black;
+	border-style: ridge;
+}
